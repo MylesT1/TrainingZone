@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#banner
+{
+     font-family: Zapfino;
+     text-align: center;
+     font-size: 80;
+}
+
+#navBar
+{
+     background-color: greenyellow;
+     font-family: Impact;
+     font-size: 30;
+     text-align: center;
+}
+
+tr td a {
+     font-family: Arial;
+     font-style: normal;
+     font-weight: 400;
+     text-decoration: none;
+     color: #000000;
+     font-size: 15px;
+     margin-left: 10px;
+     margin-top: 6px;
+     margin-bottom: 6px;
+     margin-right: 10px;
+     padding-top: 6px;
+     padding-right: 10px;
+     padding-left: 10px;
+     padding-bottom: 6px;
+}
+
+tr td a:hover {
+     color: blue;
+     font-weight: bold;
+     margin-top: 6px;
+     padding-top: 6px;
+     padding-right: 10px;
+     padding-left: 10px;
+     padding-bottom: 6px;
+     margin-bottom: 6px;
+     margin-right: 10px;
+     margin-left: 10px;
+}
+
+#content
+{
+     font-family: Arial;
+     font-size: 30px;
+     text-align: center;
+}
+
+
+#footer
+{
+     background-color: lightgray;
+     font-family: Arial Narrow;
+     font-size: 20px;
+     text-align: center;
+}
